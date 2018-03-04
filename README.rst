@@ -6,9 +6,9 @@
     :target: https://travis-ci.org/inveniosoftware/flask-ratelimiter
 .. image:: https://coveralls.io/repos/inveniosoftware/flask-ratelimiter/badge.png?branch=master
     :target: https://coveralls.io/r/inveniosoftware/flask-ratelimiter
-.. image:: https://pypip.in/v/Flask-RateLimiter/badge.png
+.. image:: https://img.shields.io/pypi/v/Flask-RateLimiter.svg
    :target: https://pypi.python.org/pypi/Flask-RateLimiter/
-.. image:: https://pypip.in/d/Flask-RateLimiter/badge.png
+.. image:: https://img.shields.io/pypi/dm/Flask-RateLimiter.svg
    :target: https://pypi.python.org/pypi/Flask-RateLimiter/
 
 About
